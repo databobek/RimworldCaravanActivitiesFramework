@@ -1,0 +1,6 @@
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\CaravanActivities\Assemblies\CaravanActivities.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\CaravanActivities\Assemblies\CaravanActivities.pdb
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\CaravanActivities\Source\CaravanActivities\obj\Release\CaravanActivities.csproj.AssemblyReference.cache
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\CaravanActivities\Source\CaravanActivities\obj\Release\CaravanActivities.csproj.CoreCompileInputs.cache
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\CaravanActivities\Source\CaravanActivities\obj\Release\CaravanActivities.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\CaravanActivities\Source\CaravanActivities\obj\Release\CaravanActivities.pdb

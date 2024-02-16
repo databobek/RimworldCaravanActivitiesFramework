@@ -1,0 +1,5 @@
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\UtilityColumnsChanges\Assemblies\SlaveBar.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\UtilityColumnsChanges\Source\UtilityColumnsChanges\obj\Debug\UtilityColumnsChanges.csproj.AssemblyReference.cache
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\UtilityColumnsChanges\Source\UtilityColumnsChanges\obj\Debug\UtilityColumnsChanges.csproj.CoreCompileInputs.cache
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\UtilityColumnsChanges\Source\UtilityColumnsChanges\obj\Debug\UtilityColumnsChanges.csproj.CopyComplete
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\UtilityColumnsChanges\Source\UtilityColumnsChanges\obj\Debug\SlaveBar.dll

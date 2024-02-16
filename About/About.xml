@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Caravan Activities Framework</name>
+	<author>Temmie3754</author>
+	<supportedVersions>
+	  <li>1.4</li>
+	</supportedVersions>
+	<packageId>temmie3754.caravanactivities</packageId>
+	<description>Adds various activities that caravans can perform while on expeditions to gain resources, relationship and perform pollution clearing actions.
+	</description>
+	<modDependencies>
+      <li>
+    <packageId>brrainz.harmony</packageId>
+    <displayName>Harmony</displayName>
+    <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+	  </li>
+    </modDependencies>
+</ModMetaData>

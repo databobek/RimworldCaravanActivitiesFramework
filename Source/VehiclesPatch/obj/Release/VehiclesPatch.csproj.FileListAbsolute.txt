@@ -1,0 +1,6 @@
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\CaravanActivities\Source\VehiclesPatch\obj\Release\VehiclesPatch.csproj.AssemblyReference.cache
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\CaravanActivities\Source\VehiclesPatch\obj\Release\VehiclesPatch.csproj.CoreCompileInputs.cache
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\CaravanActivities\Vehicles\Assemblies\VehiclesPatch.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\CaravanActivities\Vehicles\Assemblies\VehiclesPatch.pdb
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\CaravanActivities\Source\VehiclesPatch\obj\Release\VehiclesPatch.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\CaravanActivities\Source\VehiclesPatch\obj\Release\VehiclesPatch.pdb
