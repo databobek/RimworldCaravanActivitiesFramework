@@ -32,7 +32,7 @@ namespace VehiclesPatch
             {
                 if (loadingComp.doingActivity)
                 {
-                    if (__instance.vPather.Moving) __instance.vPather.Paused = true;
+                    if (__instance.vehiclePather.Moving) __instance.vehiclePather.Paused = true;
 
                 }
             }

@@ -1,0 +1,3 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\RimworldCaravanActivitiesFramework\Assemblies\CaravanActivities.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\RimworldCaravanActivitiesFramework\Source\CaravanActivities\obj\Debug\CaravanActivities.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\RimworldCaravanActivitiesFramework\Source\CaravanActivities\obj\Debug\CaravanActivities.dll
