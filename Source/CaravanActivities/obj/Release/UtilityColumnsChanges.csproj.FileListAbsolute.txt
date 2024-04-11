@@ -1,6 +1,0 @@
-D:\SteamLibrary\steamapps\common\RimWorld\Mods\UtilityColumnsChanges\Assemblies\UtilityColumnsChanges.dll
-D:\SteamLibrary\steamapps\common\RimWorld\Mods\UtilityColumnsChanges\Assemblies\UtilityColumnsChanges.pdb
-D:\SteamLibrary\steamapps\common\RimWorld\Mods\UtilityColumnsChanges\Source\UtilityColumnsChanges\obj\Release\UtilityColumnsChanges.csproj.AssemblyReference.cache
-D:\SteamLibrary\steamapps\common\RimWorld\Mods\UtilityColumnsChanges\Source\UtilityColumnsChanges\obj\Release\UtilityColumnsChanges.csproj.CoreCompileInputs.cache
-D:\SteamLibrary\steamapps\common\RimWorld\Mods\UtilityColumnsChanges\Source\UtilityColumnsChanges\obj\Release\UtilityColumnsChanges.dll
-D:\SteamLibrary\steamapps\common\RimWorld\Mods\UtilityColumnsChanges\Source\UtilityColumnsChanges\obj\Release\UtilityColumnsChanges.pdb

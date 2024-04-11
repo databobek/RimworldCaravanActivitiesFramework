@@ -45,7 +45,7 @@
   <label> used as title of the outcome
   <description> extra text to add a description for the outcome (details such as items are auto generated)
   <skillScale> bool - if true items will scale with skill depending on recSkillLevels
-  <items> list of items and a count range that will be given to caravan if outcome is selected, can also use a ThingCategoryDef which it will then choose a random item from. Also accepts a filter in the form of <contains:Meat>100~1000</<contains:Meat> to produce a random thing that contains the provided string in its defname.
+  <items> list of items and a count range that will be given to caravan if outcome is selected, can also use a ThingCategoryDef which it will then choose a random item from. also accepts a filter in the form of <contains:Meat>100~1000</<contains:Meat> to produce a random thing that contains the provided string in its defname.
     <Uranium>50~100</Uranium>
   </items>
   <raid> RaidDef that defines the occurance of a raid upon outcome
